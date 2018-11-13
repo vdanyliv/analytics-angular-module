@@ -1,1 +1,1 @@
-# AnalyticsAngularModule
+# analytics-angular-module
